@@ -13,7 +13,7 @@ Idler is a Flutter-based always-on display (AOD) app for Android devices that sh
 
 <img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/5e069b9d-72df-4e6d-886a-c59bfccc6260" />
 
-
+---------
 
 <img width="2400" height="1080" alt="image" src="https://github.com/user-attachments/assets/8dd01e4b-7f64-4706-8727-3839339d0f46" />
 
