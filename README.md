@@ -7,16 +7,18 @@ Idler is a Flutter-based always-on display (AOD) app for Android devices that sh
 - **Always-On Clock Display**: Shows time, date, and current information on the lock screen or home screen without draining battery
 - **Notification Monitoring**: Displays recent notifications from all installed apps (excluding media notifications)
 - **Media Player Integration**: Shows currently playing track, artist, album art, and playback controls
-- **Customizable Display**: Clock with automatic dimming after inactivity
+- **Inactive Display**: Clock with automatic dimming after inactivity
 - **Gesture Controls**: Swipe navigation between clock and notifications screens
-- **Haptic Feedback**: Touch feedback for interactions
 - **Screen Wake Lock**: Keeps the display on when needed
+
+<img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/5e069b9d-72df-4e6d-886a-c59bfccc6260" />
+<img width="2400" height="1080" alt="image" src="https://github.com/user-attachments/assets/8dd01e4b-7f64-4706-8727-3839339d0f46" />
+
 
 ## Requirements
 
 - **Android 7.0+** (API level 24+)
 - **Notification Access Permission**: Required to monitor and display notifications
-- **Display Over Other Apps Permission** (Optional): For always-on-top functionality
 
 ## Installation
 
@@ -41,7 +43,6 @@ Idler is a Flutter-based always-on display (AOD) app for Android devices that sh
 5. **Grant Permissions**:
    - Open Settings → Apps → Special app access → Notification listeners
    - Enable "Idler" to allow notification access
-   - (Optional) Open Settings → Display → Lock screen → Enable always-on display
 
 ## Usage
 
